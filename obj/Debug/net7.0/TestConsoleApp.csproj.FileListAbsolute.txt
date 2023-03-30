@@ -1,0 +1,15 @@
+E:\c#\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.exe
+E:\c#\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.deps.json
+E:\c#\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.runtimeconfig.json
+E:\c#\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.dll
+E:\c#\TestConsoleApp\bin\Debug\net7.0\TestConsoleApp.pdb
+E:\c#\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.csproj.AssemblyReference.cache
+E:\c#\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.AssemblyInfoInputs.cache
+E:\c#\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.AssemblyInfo.cs
+E:\c#\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+E:\c#\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.dll
+E:\c#\TestConsoleApp\obj\Debug\net7.0\refint\TestConsoleApp.dll
+E:\c#\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.pdb
+E:\c#\TestConsoleApp\obj\Debug\net7.0\TestConsoleApp.genruntimeconfig.cache
+E:\c#\TestConsoleApp\obj\Debug\net7.0\ref\TestConsoleApp.dll
